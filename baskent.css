@@ -1,0 +1,130 @@
+body{margin: 0;
+	padding: 0;
+	background-color: white;
+	}
+
+
+#ustcubuk{
+	background-color: #dbdbdb;
+	width: all;
+	height: 50px;
+	color: black;
+	font-family: sans-serif;
+	font-size: 30px;
+	text-align: center;
+	position: sticky;
+	padding-top: 10px;
+
+}
+
+
+#anagovde{
+	background-color: white;
+	width: 84%;
+	height: 400px;
+	margin-right: 8%;
+	margin-left: 8%;
+	margin-top: 50px;
+    margin-bottom: 300px;
+
+
+}
+
+
+
+
+
+.flag1{
+	width: 60%px;
+	height: 350px;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-bottom: 40px;
+	border-radius: 10px;
+
+
+}
+
+
+
+
+#anagovdeAn{	
+	background-color: white;
+	width: 64%;
+	height: 400px;
+	margin-right: 18%;
+	margin-left: 18%;
+	margin-top: 30px;
+	font-size: 20px;
+	line-height:28px;
+    word-spacing :10px;
+    margin-bottom: 300px;
+}
+
+
+
+.fotolar{
+	margin: 8px;
+	border-radius: 15px;
+	width: 300px;
+	height: 300px;
+	opacity: 1;
+
+
+
+
+
+}
+
+
+
+.fotolar1{
+	object-fit: cover;
+	margin: 8px;
+	border-radius: 15px;
+	width: 300px;
+	height: 300px;
+	opacity: 1;
+}
+
+
+
+.fotolar:hover{
+	opacity: 0.7;
+    cursor: pointer;
+}
+
+.fotolar1:hover{
+	opacity: 0.7;
+    cursor: pointer;
+}
+
+
+.btn {
+	float: left;
+	background-color: #dbdbdb;
+	border: 2px black;
+	margin-left: 10px;
+	border-radius:8px;
+	color: black;
+	padding: 16px 32px;
+	text-align: center;
+	font-size: 12pt;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
